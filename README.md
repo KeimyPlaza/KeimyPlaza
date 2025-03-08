@@ -7,6 +7,7 @@
 # Certificaciones
 
 <!--START_SECTION:badges-->
+[![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/e4f571e1-0f29-45e5-9bca-94d8cad1f4a0 "GitHub Foundations")
 <!--END_SECTION:badges-->
 
 # Soporte
